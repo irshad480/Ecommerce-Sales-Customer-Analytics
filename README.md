@@ -205,7 +205,7 @@ This project demonstrates practical Business Intelligence and Data Analytics ski
 # 📁 Project Structure
 
 ```text
-Ecommerce-Sales-Analytics/
+Ecommerce-Sales-Customer-Analytics/
 │
 ├── Dashboard/
 │   └── Ecommerce_Sales_Analytics.pbix
