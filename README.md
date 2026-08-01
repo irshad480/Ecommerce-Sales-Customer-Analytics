@@ -274,7 +274,7 @@ Potential enhancements for future versions include:
 
 Aspiring Data Analyst passionate about Business Intelligence, SQL, PostgreSQL, Power BI, and Data Visualization.
 
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/irshad480
 - LinkedIn: www.linkedin.com/in/muhammed-irshad-b21523360
 - Email: vvrirshadmk@email.com
 ---
