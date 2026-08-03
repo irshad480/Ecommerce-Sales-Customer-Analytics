@@ -276,7 +276,7 @@ Aspiring Data Analyst passionate about Business Intelligence, SQL, PostgreSQL, P
 
 - GitHub: https://github.com/irshad480
 - LinkedIn: www.linkedin.com/in/muhammed-irshad-b21523360
-- Email: vvrirshadmk@email.com
+- Email: vvrirshadmk@gmail.com
 ---
 
 # 📄 License
